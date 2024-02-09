@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/habil uğur günay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="habil uğur günay" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/habil-u%C4%9Fur-g%C3%BCnay-ba967227a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="habil uğur günay" height="30" width="40" /></a>
 <a href="https://instagram.com/habilugurgunay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="habilugurgunay" height="30" width="40" /></a>
 </p>
 
