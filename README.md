@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Habil Uğur Günay</h1>
 <h3 align="center">Newly graduated university student improving himself in Turkey</h3>
 
-- 🔭 I’m currently working on **C# AUTOMATION**
+- 🔭 I’m currently working on **Mobile Devoloper**
 
 - 📫 How to reach me **habilugurgunay@gmail.com**
 
